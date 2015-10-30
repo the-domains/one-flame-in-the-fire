@@ -1,0 +1,23 @@
+name: One Flame in the Fire
+favicon: null
+layout_spectrum: 0.43072320194914937
+typography_spectrum: 0.7261312371119857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03492464101873338
+  lightness: 0.24530377006158233
+  saturation: 0.3364353042561561
+  rhythmicContrast: 0.5599539885297418
+purpose: []
