@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[One Flame in the Fire]]></title>
-        <description><![CDATA[One Flame in the Fire]]></description>
+        <title><![CDATA[1Flame]]></title>
+        <description><![CDATA[1Flame]]></description>
         <link>https://thegrid.ai/one-flame-in-the-fire/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 03:24:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-flame-in-the-fire/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/one-flame-in-the-fire/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">068c7a02-31b1-4eb4-a0d5-40ffa30a9efd</guid>
+            <pubDate>Sat, 31 Oct 2015 03:23:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hmmm... how to make this site look much different.  It is much the same so far.  </p>]]></description>
