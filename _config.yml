@@ -1,6 +1,6 @@
 name: One Flame in the Fire
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73413
 typography_spectrum: 0.72013
 title: 1Flame
 cta:
@@ -22,8 +22,8 @@ color:
     - '#457aa8'
     - '#c8cbc6'
     - '#ff8f59'
-  brandStrength: 0.0625
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
